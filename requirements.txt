@@ -1,0 +1,9 @@
+pybaseball
+pandas
+numpy
+pyarrow
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
